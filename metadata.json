@@ -1,0 +1,11 @@
+{
+  "name": "fecheat",
+  "description": "Classy AI fitness, 24/7 schedule conductor, workout form corrector, diet and macro scanner, and smartwatch biometric health monitor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
